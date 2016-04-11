@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name arduino)(type Legacy)(uri "$(KIPRJMOD)/Libraries/YJ_arduino/arduino.mod")(options "")(descr ""))
+  (lib (name My_Library)(type KiCad)(uri "/home/jpmeijers/KiCad designs/RN2483shield/My_Library.pretty")(options "")(descr ""))
+)
